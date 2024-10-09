@@ -15,4 +15,4 @@ Repository Home for Aero-Mech Analysis, Simulations, and Design Work
 - Comment diligently.
 
 ## Nomenclature and Typical Reference Frames
-- See **[NOMENCLATURE](https://github.com/The-Ultimate-Jump/Aerodynamic-Mechanical/blob/1-issue-template-creation/docs/NOMENCLATURE.md) ** for Nomenclature Reference Sheet
+- See **[/docs/NOMENCLATURE.md](https://github.com/The-Ultimate-Jump/Aerodynamic-Mechanical/blob/1-issue-template-creation/docs/NOMENCLATURE.md) ** for Nomenclature Reference Sheet
