@@ -21,4 +21,4 @@ https://desktop.github.com/download/
 - Comment diligently.
 
 ## Nomenclature and Typical Reference Frames
-- See **NOMENCLATURE.MD** for Nomenclature Reference
+- See **NOMENCLATURE: https://github.com/The-Ultimate-Jump/Aerodynamic-Mechanical/blob/1-issue-template-creation/docs/NOMENCLATURE.md ** for Nomenclature Reference
